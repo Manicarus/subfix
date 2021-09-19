@@ -69,5 +69,5 @@ setup(
     extras_require={
         'tests': TEST_PACKAGES,
     },
-    # entry_points={"console_scripts": ["subfix = subfix.cli.manager:main"]},
+    entry_points={"console_scripts": ["subfix = subfix.cli.manager:main"]},
 )
