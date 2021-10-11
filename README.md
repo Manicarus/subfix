@@ -1,3 +1,7 @@
+# NOTICE
+
+I first looked into subfixio for simply batch converting encodings of the subtitle files. It turned out that "Subtitle Edit" could actually do that under `Tools > Batch convert...`. You still might want to stick to subfixio if only CLI environment is available.
+
 # Subfix
 
 A simple subtitle encoding fixer.
